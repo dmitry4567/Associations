@@ -1,0 +1,14 @@
+{
+    "new_game": "New game",
+    "about_developers": "About developers",
+    "support_this_project": "support this project",
+    "numbers_of_players": "numbers of players",
+    "number_of_cards": "number of cards",
+    "running_time_in_seconds": "running time in seconds",
+    "again": "Restart",
+    "menu": "Main menu",
+    "see_hints": "drag up to see hint",
+    "winner": "winner",
+    "draw": "Draw",
+    "finish": "Finish"
+}

@@ -1,0 +1,14 @@
+{
+    "new_game": "Новая игра",
+    "about_developers": "Об разработчиках",
+    "support_this_project": "поддержать проект",
+    "numbers_of_players": "кол-во игроков",
+    "number_of_cards": "кол-во карт",
+    "running_time_in_seconds": "время ход сек.", 
+    "again": "Заново",
+    "menu": "В главное меню",
+    "see_hints": "тяни вверх, чтобы посмотреть подсказку",
+    "winner": "победитель",
+    "draw": "Ничья",
+    "finish": "Завершить"
+}
